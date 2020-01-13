@@ -1,0 +1,15 @@
+$color-nav: #000000;
+
+nav {
+    background-color: $color-nav;
+    color: #FFFFFF;
+    min-height: 2rem;
+}
+
+.nav-links {
+    width: 50%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}

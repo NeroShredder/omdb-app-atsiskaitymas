@@ -1,0 +1,10 @@
+$clr-btn: #1ea304;
+$text: #000000;
+
+.btn {
+    background-color: $clr-btn;
+    font-size: $text;
+    font-weight: bold;
+    &:hover {
+        background-color: #91000c;}
+}
